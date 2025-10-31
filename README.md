@@ -12,4 +12,5 @@ Features
 
 Screenshots
 
-<img width="874" height="698" alt="image" src="https://github.com/user-attachments/assets/c80639a4-85df-4104-aef0-f1688dcd35ac" />
+<img width="744" height="698" alt="image" src="https://github.com/user-attachments/assets/d855a0cd-aaa4-4ed0-b985-64ca42b85a48" />
+
