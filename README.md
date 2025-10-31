@@ -1,3 +1,5 @@
+A Flutter based messaging app for real time communication through individual and group chats with stories. 
+
 Requirements
 - Any Operating System (MacOS X, Linux, Windows)
 - Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
